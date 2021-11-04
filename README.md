@@ -33,4 +33,5 @@ A ideia do App é:
 # Construido com:
 * React - Utilizada para fazer a construção do front-end, reaproveitando código com components e ser mais perfórmatico com renderização SPA.
 * React-vis - Utilizado para fazer os gráficos da aplicação.
+* bootstrap font awesome - Utilizado os ícones para a aplicação.
 * gh-pages - Utilizado para colocar o site no ar com o github pages, criando uma build e subindo para o servidor com apenas um comando.
